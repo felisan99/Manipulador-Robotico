@@ -41,6 +41,8 @@ Ademas, sera necesario adquirir algunos componentes de electronica:
 6. Muchos cables macho-hembra y macho-macho
 7. Una placa de cobre perforada
 
+En lo que respecta al codigo, es importante instalar todas las dependencias. Para la parte de Python, en el archivo SRC estan las librerias con las versiones. Para el correcto funcionamiento de la placa es necesario instalar la libreria de ESP32Servo dentro del IDE de Arduino antes de subir el codigo a la placa.
+
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si tenes mejoras, sugerencias o encontras errores no dudes en compartirlas conmigo.
