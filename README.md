@@ -45,7 +45,12 @@ Ademas, sera necesario adquirir algunos componentes de electronica:
 
 ¡Las contribuciones son bienvenidas! Si tenes mejoras, sugerencias o encontras errores no dudes en compartirlas conmigo.
 
+## Algunas imagenes del proyecto 😎
+![image](https://github.com/felisan99/Manipulador/assets/127903582/563faed2-719b-49fa-a4f8-a797dc329c4b)
+
 ## Datos de contacto
 
 LinkedIn: https://www.linkedin.com/in/felipe-santisteban-facal-1a4452261/
+
+
 
