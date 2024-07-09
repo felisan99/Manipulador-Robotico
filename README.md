@@ -1,6 +1,6 @@
 # Manipulado Robótico
 
-Este proyecto consiste en un brazo robótico de pequeña escala controlado mediante gestos de la mano. A continuación, encontrarás una descripción detallada del proyecto, sus objetivos, tecnología utilizada y cómo puedes replicarlo.
+Este proyecto consiste en un brazo robótico a pequeña escala controlado mediante gestos de la mano. A continuación, brindo una descripción detallada del proyecto, sus objetivos, tecnología y componentes. Toda la informacion necesaria para replicar el proyecto esta en este repositorio.
 
 ## Objetivo del Proyecto
 
@@ -11,6 +11,7 @@ El objetivo de este proyecto es poner en práctica y mejorar habilidades en dise
 - **Placa de desarrollo ESP32**: Microcontrolador utilizado para controlar los servomotores y recibir por comunicacion serial la posicion de los servo motores.
 - **Servomotores**: Motores utilizados para mover las diferentes partes del brazo robótico. Se utilizaron 3 modelos diferentes el MG996R, el MG90S y el SG90; todos de 180 grados.
 - **Librería Mediapipe**: Utilizada para el reconocimiento de gestos de la mano. Esta librería cuenta con un modelo de ML ya entrenado que asigna coordenadas a los puntos de la mano y utilizando esto se crean gestos específicos para controlar cada servomotor de forma individual. https://mediapipe-studio.webapps.google.com/studio/demo/hand_landmarker
+- **Piezas 3D**: Se diseñaron todas las piezas en 3D utilizando la plataforma online Onshape. Se puede ver el diseño de cada pieza individual y el ensamblado del robot en linea utilizando el link a continuacion. https://cad.onshape.com/documents/74374851f9fe1f9305b27667/w/19e4e45ac711f04db92687c4/e/1d70554c7b11f0e40a28d2fe?renderMode=0&uiState=668daedd1e671f41abb22e66
 
 ### Funcionamiento
 
@@ -29,7 +30,7 @@ El objetivo principal es controlar el robot mediante gestos de la mano, pero tam
 
 ## Cómo repliacrlo ? 
 
-Para poder replicar el proyecto sera necesario imprimir en 3D todas las piezas en la carpeta de modelos3D.
+Para poder replicar el proyecto sera necesario imprimir en 3D todas las piezas. En la carpeta de STLs estan todos los archivos. Tambien es necesario conseguir algunos tornillos ( x 10 no se que tamaño).
 
 Ademas, sera necesario adquirir algunos componentes de electronica:
 1. 2 x Servo motor 180 grados MG996R.
@@ -42,7 +43,7 @@ Ademas, sera necesario adquirir algunos componentes de electronica:
 
 ## Contribuciones
 
-¡Las contribuciones son bienvenidas! Si tienes mejoras, sugerencias o encuentras errores no dudes en compartirlas conmigo.
+¡Las contribuciones son bienvenidas! Si tenes mejoras, sugerencias o encontras errores no dudes en compartirlas conmigo.
 
 ## Datos de contacto
 
