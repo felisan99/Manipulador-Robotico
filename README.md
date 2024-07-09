@@ -46,7 +46,14 @@ Ademas, sera necesario adquirir algunos componentes de electronica:
 ¡Las contribuciones son bienvenidas! Si tenes mejoras, sugerencias o encontras errores no dudes en compartirlas conmigo.
 
 ## Algunas imagenes del proyecto 😎
+### Imagen del robot armado en Onshape
 ![image](https://github.com/felisan99/Manipulador/assets/127903582/563faed2-719b-49fa-a4f8-a797dc329c4b)
+
+### Imagen del reconocimiento de landmarks
+![image](https://github.com/felisan99/Manipulador/assets/127903582/8ccef45c-de36-4d04-8561-5def0f240acd)
+
+### El robot
+<img width="445" alt="image" src="https://github.com/felisan99/Manipulador-Robotico/assets/127903582/37d2158e-a45c-45f7-b8d4-25199f278798">
 
 ## Datos de contacto
 
