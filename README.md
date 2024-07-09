@@ -1,4 +1,4 @@
-# Proyecto de Manipulado Robótico
+# Manipulado Robótico
 
 Este proyecto consiste en un brazo robótico de pequeña escala controlado mediante gestos de la mano. A continuación, encontrarás una descripción detallada del proyecto, sus objetivos, tecnología utilizada y cómo puedes replicarlo.
 
@@ -27,6 +27,18 @@ Este proyecto ha sido una excelente oportunidad para mejorar en programación, d
 
 El objetivo principal es controlar el robot mediante gestos de la mano, pero también estoy trabajando en permitir su control vía web server y con un joystick.
 
+## Cómo repliacrlo ? 
+
+Para poder replicar el proyecto sera necesario imprimir en 3D todas las piezas en la carpeta de modelos3D.
+
+Ademas, sera necesario adquirir algunos componentes de electronica:
+1. 2 x Servo motor 180 grados MG996R.
+2. 2 x Servo motor 180 grados SG90.
+3. 1 x Servo motor 180 grados MG90S.
+4. Placa ESP32 o similar.
+5. Capacitor electrolitico de 47microF
+6. Muchos cables macho-hembra y macho-macho
+7. Una placa de cobre perforada
 
 ## Contribuciones
 
