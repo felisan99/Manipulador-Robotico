@@ -29,8 +29,6 @@ void loop() {
   if (Serial.available()){
     int datos_recibidos = Serial.readBytes(angulos, 5);
     if(datos_recibidos == 5){
-      Serial.print("Se recibieron correctamente los datos");
-      
       servo_base.write(angulos[0]);
       servo_1.write(angulos[1]);
       servo_2.write(angulos[2]);
