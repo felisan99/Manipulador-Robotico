@@ -56,6 +56,7 @@ En lo que respecta al codigo, es importante instalar todas las dependencias. Par
 
 ### El robot
 <img width="445" alt="image" src="https://github.com/felisan99/Manipulador-Robotico/assets/127903582/37d2158e-a45c-45f7-b8d4-25199f278798">
+![a2c5eeb1-0039-4232-b6e3-9b83e1f53371 2](https://github.com/user-attachments/assets/cef77b48-ca41-4bb7-ab41-3059f47aa113)
 
 ## Video 📹
 https://youtu.be/EpP-zhdE344?si=p3kppYE0x0bFDBg7
